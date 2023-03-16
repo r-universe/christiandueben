@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "conleyreg"]
+	path = conleyreg
+	url = https://github.com/christiandueben/conleyreg
+	shallow = true
+	registered = true
