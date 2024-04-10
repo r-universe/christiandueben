@@ -5,3 +5,6 @@
 [submodule "conleyreg"]
 	path = conleyreg
 	url = https://github.com/christiandueben/conleyreg
+[submodule "spaths"]
+	path = spaths
+	url = https://github.com/christiandueben/spaths
